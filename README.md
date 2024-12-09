@@ -15,6 +15,7 @@
   <li>Fun project for learning Python and graphic design basics.</li>
 </ul>
 
+# How To Use:
 <ol type="1">
   <li>Install Python and the Turtle graphics library.</li>
   <li>Run the script to see Doraemon appear on your screen.</li>
