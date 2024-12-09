@@ -18,7 +18,7 @@ This project is a perfect demonstration of Python's Turtle module's artistic pot
 <ol type="1">
   <li><b>Install Python:</b> Ensure Python is installed. The Turtle module is pre-installed.</li>
   
-  <li><b>Run the Script:</b> Execute the<a href="Doraemon.py" style="hover{color:red;}">Doraemon.py script</a> to watch Doraemon come to life on your screen.</li>
+  <li><b>Run the Script:</b> Execute the<a href="Doraemon.py">Doraemon.py script</a> to watch Doraemon come to life on your screen.</li>
    <li><b>Customize:</b> Tweak the code to adjust the design or add new features for fun experimentation.</li>
 </ol>
 
