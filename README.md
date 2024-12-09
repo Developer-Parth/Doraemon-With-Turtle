@@ -1,6 +1,6 @@
 # Doraemon-With-Turtle
 
-<img src="preview.jpg">
+<a href="Doraemon.py"><img src="preview.jpg"></a>
 
 <p><b>Doraemon With Turtle</b> is a fun and creative project that brings the famous Japanese cartoon character, Doraemon, to life using Python's Turtle graphics library. In this project, you will find code that allows you to draw a detailed and animated representation of Doraemon, featuring all of his iconic features like the face, nose, eyes, mustache, and even his signature bell on the collar.</p>
 
@@ -17,8 +17,9 @@
 # How To Use:
 <ol type="1">
   <li>Install Python and the Turtle graphics library.</li>
+  
   <li>Run the script to see Doraemon appear on your screen.</li>
-<li>You can modify the code to adjust Doraemon’s design or add more features.</li>
+   <li>You can modify the code to adjust Doraemon’s design or add more features.</li>
 </ol>
 
 <p>
